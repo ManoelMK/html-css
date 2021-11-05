@@ -1,6 +1,6 @@
-#img21{
+#img{
   text-align: center;
-  width: auto;
+  
     
 }
 section{
@@ -12,10 +12,11 @@ section{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
 }body{
-    background-image: linear-gradient(to left, white,#DB1A00);
+    background-image: linear-gradient(to left, rgba(88, 88, 88, 0.514),#DB1A00);
 }
 img{
   border-radius: 10px;
   
   
 }
+
