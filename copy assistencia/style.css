@@ -1,12 +1,10 @@
 #img{
   text-align: center;
-  
-    
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 section{
   text-align: center;
-  
-  
+  padding-left: 4px;
 }
 #tex1{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
