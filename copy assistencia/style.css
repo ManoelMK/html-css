@@ -4,13 +4,13 @@
 }
 section{
   text-align: center;
-  padding-left: 4px;
+ 
 }
 #tex1{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
 }body{
-    background-image: linear-gradient(to left, rgba(88, 88, 88, 0.514),#DB1A00);
+    background-image: linear-gradient(to left, rgba(88, 88, 88, 0.514),#0d05f486);
 }
 img{
   border-radius: 10px;
@@ -19,4 +19,5 @@ img{
 #h1{
   text-align: center;
 }
+
 
